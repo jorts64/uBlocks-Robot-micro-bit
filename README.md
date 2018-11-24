@@ -10,15 +10,13 @@ Partint del [MicroBlocks Starter Kit Robots](http://shop.innovadidactic.com/inde
 
 
 
-## TestRobot 3: prova de motors 
+## Exemples
 ![Test motors](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%203.png)
-
-## TestRobot 4: control amb Joystick
 ![Control joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%204.png)
-![Connexions joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%204.jpg)
-
-## TestRobot 6: seguidor de linies amb parades i xiulet
 ![seguidor linies](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%206.png)
+
+
+![Connexions joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%204.jpg)
 ![connexions linies](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%206.jpg)
 
 
