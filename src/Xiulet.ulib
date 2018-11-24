@@ -1,0 +1,11 @@
+spec ' ' 'Xiulet' 'Xiulet' ''
+
+to Xiulet {
+  repeat 1000 {
+    digitalWriteOp 8 true
+    waitMicros 2000
+    digitalWriteOp 8 false
+    waitMicros 2000
+  }
+}
+

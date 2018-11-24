@@ -1,0 +1,78 @@
+spec ' ' 'Atura' 'Atura' ''
+spec ' ' 'AturaL' 'AturaL' ''
+spec ' ' 'AturaR' 'AturaR' ''
+spec ' ' 'Dreta' 'Dreta' ''
+spec ' ' 'Endavant' 'EndavantL' ''
+spec ' ' 'Endavant2' 'Endavant' ''
+spec ' ' 'EndavantR' 'EndavantR' ''
+spec ' ' 'Enrera' 'Enrera' ''
+spec ' ' 'EnreraL' 'EnreraL' ''
+spec ' ' 'EnreraR' 'EnreraR' ''
+spec ' ' 'Esquerra' 'Esquerra' ''
+spec ' ' 'PlacaOn' 'PlacaOn' ''
+
+to Atura {
+  AturaR
+  AturaL
+}
+
+to AturaL {
+  digitalWriteOp 13 false
+  digitalWriteOp 12 false
+  analogWriteOp 1 0
+}
+
+to AturaR {
+  digitalWriteOp 15 false
+  digitalWriteOp 16 false
+  analogWriteOp 2 0
+}
+
+to Dreta {
+  Endavant
+  AturaR
+}
+
+to Endavant {
+  digitalWriteOp 13 true
+  digitalWriteOp 12 false
+  analogWriteOp 1 500
+}
+
+to Endavant2 {
+  Endavant
+  EndavantR
+}
+
+to EndavantR {
+  digitalWriteOp 15 true
+  digitalWriteOp 16 false
+  analogWriteOp 2 500
+}
+
+to Enrera {
+  EnreraL
+  EnreraR
+}
+
+to EnreraL {
+  digitalWriteOp 13 false
+  digitalWriteOp 12 true
+  analogWriteOp 1 500
+}
+
+to EnreraR {
+  digitalWriteOp 15 false
+  digitalWriteOp 16 true
+  analogWriteOp 2 500
+}
+
+to Esquerra {
+  AturaL
+  EndavantR
+}
+
+to PlacaOn {
+  digitalWriteOp 14 true
+}
+
