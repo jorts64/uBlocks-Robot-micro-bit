@@ -8,17 +8,17 @@ Partint del [MicroBlocks Starter Kit Robots](http://shop.innovadidactic.com/inde
 ![joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/Joystick.png)
 ![xiulet](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/xiulet.png)
 
+## Exemple test motors: TestRobot 3
 
-
-## Exemples
 ![Test motors](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%203.png)
 
+## Exemple control amb joystick: TestRobot 4
 ![Control joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%204.png)
+![Connexions joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%204.jpg)
+
+## Exemple seguidor de línies amb parades i xiulet: TestRobot 6 
 
 ![seguidor linies](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%206.png)
-
-
-![Connexions joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%204.jpg)
 ![connexions linies](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%206.jpg)
 
 
