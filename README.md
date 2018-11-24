@@ -12,6 +12,7 @@ Partint del [MicroBlocks Starter Kit Robots](http://shop.innovadidactic.com/inde
 
 ## Exemples
 ![Test motors](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%203.png)
+
 ![Control joystick](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%204.png)
 
 ![seguidor linies](https://github.com/jorts64/uBlocks-Robot-micro-bit/blob/master/img/TestRobot%206.png)
